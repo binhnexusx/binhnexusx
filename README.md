@@ -17,10 +17,10 @@ I'm a passionate full-stack developer who loves turning complex problems into el
   <a href="https://www.linkedin.com/in/binh-hoang-72796429b/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="48" height="48" alt="LinkedIn"/>
   </a>
-  <a href="https://fb.com/binh.hoang.16o3ejhwaw" target="_blank">
+  <a href="https://www.facebook.com/share/16o3eJHwAW/?mibextid=wwXIfr" target="_blank">
     <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="48" height="48" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/binh.dev" target="_blank">
+  <a href="https://instagram.com/duskx_lawx" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48" height="48" alt="Instagram"/>
   </a>
   <a href="https://stackoverflow.com/users/binh-dev" target="_blank">
