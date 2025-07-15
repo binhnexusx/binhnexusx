@@ -62,12 +62,3 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binhnexusx&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binhnexusx&theme=tokyonight" alt="GitHub streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binhnexusx&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
