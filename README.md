@@ -1,64 +1,84 @@
-<!-- PROFILE README for Hoang Thanh Binh -->
+# Hi there, I'm Hoang Thanh Binh 👋
 
-<h1 align="center">Hi 👋, I'm Hoang Thanh Binh</h1>
-<h3 align="center">🎓 Full-scholarship student at Passerelles Numériques Vietnam (PNV)</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Full-stack+Developer+%7C+Code+Enthusiast;Building+Tomorrow's+Web+Today;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Fullstack+Developer+in+training;Always+Learning;Code.+Build.+Improve." alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=16" width="100%"/>
+</div>
 
----
+**Full-scholarship student at Passerelles Numériques Vietnam (PNV)**
 
-### 🧑‍💻 About Me
+I'm a passionate full-stack developer who loves turning complex problems into elegant, user-friendly solutions. Currently mastering modern web technologies and always excited to explore new possibilities in the ever-evolving tech landscape.
+## 🌐 Connect & Collaborate
 
-- 🌏 From Vietnam 🇻🇳
-- 📚 Studying full-stack web development
-- 🔧 Focus: JavaScript | Node.js | React | Docker | TypeScript | PostgreSQL
-- 🚀 Building cool stuff while learning hard
-- 💬 Ask me about anything tech — I love a good challenge
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/binh-hoang-72796429b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="48" height="48" alt="LinkedIn"/>
   </a>
   <a href="https://fb.com/binh.hoang.16o3ejhwaw" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/facebook-new.png" width="48" height="48" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/binh.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48" height="48" alt="Instagram"/>
   </a>
   <a href="https://stackoverflow.com/users/binh-dev" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-%23FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/stackoverflow.png" width="48" height="48" alt="Stack Overflow"/>
   </a>
-</p>
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
+## 💻 Tech Arsenal
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
-</p>
+<div align="center">
+  
+**Languages & Frameworks**
+  
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,php&perline=7&theme=dark" />
+
+**Styling & Design**
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma&perline=5&theme=dark" />
+
+**Database & DevOps**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,firebase&perline=5&theme=dark" />
+
+</div>
+## 🎯 Current Mission
+
+<div align="center">
+  
+```javascript
+const binhdeveloper = {
+    currentFocus: {
+        frontend: ["React", "TypeScript", "Modern CSS"],
+        backend: ["Node.js", "Express", "API Architecture"],
+        database: ["PostgreSQL", "Query Optimization"],
+        devops: ["Docker", "CI/CD Pipeline"]
+    },
+    
+    goals2024: [
+        "Master full-stack development",
+        "Contribute to open source",
+        "Build impactful projects",
+        "Share knowledge with community"
+    ],
+    
+    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
+};
+```
+
+</div>
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=16" width="100%"/>
+</div>
+
+<div align="center">
+  <i>💡 "The best way to predict the future is to create it." - Peter Drucker</i>
+</div>
