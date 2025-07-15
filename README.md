@@ -47,8 +47,6 @@ I'm a passionate full-stack developer who loves turning complex problems into el
 <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,firebase&perline=5&theme=dark" />
 
 </div>
-## 🎯 Current Mission
-
 <div align="center">
   
 ```javascript
@@ -57,16 +55,7 @@ const binhdeveloper = {
         frontend: ["React", "TypeScript", "Modern CSS"],
         backend: ["Node.js", "Express", "API Architecture"],
         database: ["PostgreSQL", "Query Optimization"],
-        devops: ["Docker", "CI/CD Pipeline"]
-    },
-    
-    goals2024: [
-        "Master full-stack development",
-        "Contribute to open source",
-        "Build impactful projects",
-        "Share knowledge with community"
-    ],
-    
+    },   
     funFact: "I debug with console.log() and I'm not ashamed! 🐛"
 };
 ```
